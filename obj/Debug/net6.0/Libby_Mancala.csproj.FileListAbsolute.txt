@@ -1,0 +1,15 @@
+C:\Users\ksolk\source\repos\Libby_Mancala\bin\Debug\net6.0\Libby_Mancala.exe
+C:\Users\ksolk\source\repos\Libby_Mancala\bin\Debug\net6.0\Libby_Mancala.deps.json
+C:\Users\ksolk\source\repos\Libby_Mancala\bin\Debug\net6.0\Libby_Mancala.runtimeconfig.json
+C:\Users\ksolk\source\repos\Libby_Mancala\bin\Debug\net6.0\Libby_Mancala.dll
+C:\Users\ksolk\source\repos\Libby_Mancala\bin\Debug\net6.0\Libby_Mancala.pdb
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.csproj.AssemblyReference.cache
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.AssemblyInfoInputs.cache
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.AssemblyInfo.cs
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.csproj.CoreCompileInputs.cache
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.dll
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\refint\Libby_Mancala.dll
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.pdb
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\Libby_Mancala.genruntimeconfig.cache
+C:\Users\ksolk\source\repos\Libby_Mancala\obj\Debug\net6.0\ref\Libby_Mancala.dll
