@@ -45,22 +45,22 @@ namespace Libby_Mancala
         public void showBoard()
         {
             //display computer mancala
-            Console.Write(compMancala + "   |");
+            Console.Write(compMancala + "    |");
             //display computer side
             for (int computerRow = 0; computerRow < computer.Length; computerRow++)
             {
                 Console.Write(computer[computerRow] + "|");
             }
             Console.WriteLine();
-            Console.WriteLine();
-            Console.Write("    |");
+            Console.WriteLine("-------------------------");
+            Console.Write("     |");
             //display player side
             for (int playerRow = 0; playerRow < player.Length; playerRow++)
             {
                 Console.Write(player[playerRow] + "|");
             }
             //display player mancala
-            Console.Write("   " + playerMancala);
+            Console.Write("    " + playerMancala);
         }
 
 
