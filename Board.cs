@@ -128,7 +128,9 @@ namespace Libby_Mancala
                     if (tempArr[column + 1] == 1)
                     {
                         compMancala += player[column + 1];
+                        compMancala += tempArr[column + 1];
                         player[column + 1] = 0;
+                        tempArr[column + 1] = 0;
                     }
                 }
                 moveMade = this;
@@ -177,6 +179,8 @@ namespace Libby_Mancala
                     if (tempArr[column - 1] == 1)
                     {
                         playerMancala += computer[column - 1];
+                        playerMancala += tempArr[column - 1];
+                        tempArr[column - 1] = 0;
                         computer[column - 1] = 0;
                     }
                 }
