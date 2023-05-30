@@ -330,7 +330,7 @@ namespace Libby_Mancala
             else
             {
                 //AS PER DR. K: add two mancala's together and divide by 48;
-                retVal = ((Double)compMancala + (Double)playerMancala) / 48;
+                retVal = (compMancala + playerMancala) / 48.0;
             }
             return retVal;
         }
